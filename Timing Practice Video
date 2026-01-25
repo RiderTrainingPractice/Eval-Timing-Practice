@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rider Evaluation Timing Practice</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 40px;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    p {
+      margin-bottom: 30px;
+    }
+    .video {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    video {
+      width: 100%;
+      max-width: 800px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Rider Evaluation Timing Practice</h1>
+<p>Click play to watch each video. Scores are embedded in the filenames.</p>
+
+<!-- A Swerve Videos -->
+<h2>A Swerve</h2>
+<div class="video"><h3>A_Swerve_1_37</h3><video controls><source src="A_Swerve_1_37.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_1_58</h3><video controls><source src="A_Swerve_1_58.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_1_89</h3><video controls><source src="A_Swerve_1_89.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_2_07</h3><video controls><source src="A_Swerve_2_07.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_2_23_mov</h3><video controls><source src="A_Swerve_2_23_mov.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_2_28</h3><video controls><source src="A_Swerve_2_28.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_2_30</h3><video controls><source src="A_Swerve_2_30.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_2_36</h3><video controls><source src="A_Swerve_2_36.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_2_3_mov</h3><video controls><source src="A_Swerve_2_3_mov.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_2_54</h3><video controls><source src="A_Swerve_2_54.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_3_05</h3><video controls><source src="A_Swerve_3_05.mov" type="video/mp4"></video></div>
+<div class="video"><h3>A_Swerve_3_47</h3><video controls><source src="A_Swerve_3_47.mov" type="video/mp4"></video></div>
+
+<!-- B Quick Stop Videos -->
+<h2>B Quick Stop</h2>
+<div class="video"><h3>B_Quick_Stop_1_09</h3><video controls><source src="B_Quick_Stop_1_09.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_1_36</h3><video controls><source src="B_Quick_Stop_1_36.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_1_66</h3><video controls><source src="B_Quick_Stop_1_66.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_1_76</h3><video controls><source src="B_Quick_Stop_1_76.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_1_9</h3><video controls><source src="B_Quick_Stop_1_9.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_1_93_mov</h3><video controls><source src="B_Quick_Stop_1_93_mov.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_2_0</h3><video controls><source src="B_Quick_Stop_2_0.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_2_27</h3><video controls><source src="B_Quick_Stop_2_27.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_2_53_mov</h3><video controls><source src="B_Quick_Stop_2_53_mov.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_2_57</h3><video controls><source src="B_Quick_Stop_2_57.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_2_79</h3><video controls><source src="B_Quick_Stop_2_79.mov" type="video/mp4"></video></div>
+<div class="video"><h3>B_Quick_Stop_3_17</h3><video controls><source src="B_Quick_Stop_3_17.mov" type="video/mp4"></video></div>
+
+<!-- C Curve Videos -->
+<h2>C Curve</h2>
+<div class="video"><h3>C_Curve_1_56</h3><video controls><source src="C_Curve_1_56.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_1_66</h3><video controls><source src="C_Curve_1_66.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_1_67</h3><video controls><source src="C_Curve_1_67.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_1_7</h3><video controls><source src="C_Curve_1_7.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_1_82_mov</h3><video controls><source src="C_Curve_1_82_mov.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_1_97</h3><video controls><source src="C_Curve_1_97.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_03_mov</h3><video controls><source src="C_Curve_2_03_mov.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_16</h3><video controls><source src="C_Curve_2_16.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_17</h3><video controls><source src="C_Curve_2_17.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_23_mov</h3><video controls><source src="C_Curve_2_23_mov.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_26</h3><video controls><source src="C_Curve_2_26.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_37</h3><video controls><source src="C_Curve_2_37.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_5</h3><video controls><source src="C_Curve_2_5.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_54</h3><video controls><source src="C_Curve_2_54.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_2_94</h3><video controls><source src="C_Curve_2_94.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve__2_0</h3><video controls><source src="C_Curve__2_0.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_bonus_2_47</h3><video controls><source src="C_Curve_bonus_2_47.mov" type="video/mp4"></video></div>
+<div class="video"><h3>C_Curve_bonus_2_88</h3><video controls><source src="C_Curve_bonus_2_88.mov" type="video/mp4"></video></div>
+
+</body>
+</html>
